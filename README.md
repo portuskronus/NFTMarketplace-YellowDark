@@ -1,3 +1,10 @@
+Hi there, 
+I have uploaded this to show you a working example of a complex front end. It is still a work on progress so some things are glitchy as mentioned below but you'll get a gist of the scope of work when it comes to front end.
+
+Thanks!!
+Parik Ahlawat
+
+
 BUGS TO FIX
 
 - Whole page overflow / not mobile responsive.
